@@ -1,0 +1,4 @@
+1. Visit the website: https://compostpro.work/
+2. Click "enter" with your mouse
+3. Drag "sample" and "spectrum" from the "Web Testing Team" section into the image and spectrum areas, respectively
+4. Click "SUBMIT FILES," wait a few seconds, and view the results
